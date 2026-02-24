@@ -73,7 +73,7 @@
 
 ### Решение:
 
-![10](https://github.com//Alm798/Terraform2/blob/main/img/10.png)
+![10](https://github.com/Alm798/Terraform2/blob/main/img/10.png)
 
 variables.tf
 
@@ -96,7 +96,7 @@ main.tf
 
 vms_platform.tf
 
-![16](https://github.com//Alm798/Terraform2/blob/main/img/16.png)
+![16](https://github.com/Alm798/Terraform2/blob/main/img/16.png)
 
 
 
