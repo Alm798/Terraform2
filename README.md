@@ -36,7 +36,7 @@
 
 ### Решение:
 
-![9](https://github.com/Alm798/Terraform2/blob/main/9.png)
+![9](https://github.com/Alm798/Terraform2/blob/main/img/9.png)
 
 1. были добавлены идентификаторы облака и созданной директории
 
