@@ -50,13 +50,13 @@
 
 - cores = 1 заменил на cores = 2
 
-![01](https://github.com/Alm798/Terraform2/blob/main/01.png)
+![01](https://github.com/Alm798/Terraform2/blob/main/img/01.png)
 
-![3](https://github.com/Alm798/Terraform2/blob/main/3.png)
+![3](https://github.com/Alm798/Terraform2/blob/main/img/3.png)
 
 5. выполнил подключение по ssh к ВМ и выполнил curl ifconfig.me
 
-![11](https://github.com/Alm798/Terraform2/blob/main/11.png)
+![11](https://github.com/Alm798/Terraform2/blob/main/img/11.png)
 
 6. preemptible = true - позволяет экономить деньги при аренде ВМ за счет того, что виртуальная машина после 24 часов работы будет остановлена.
   
@@ -73,15 +73,15 @@
 
 ### Решение:
 
-![10](https://github.com//Alm798/Terraform2/blob/main/10.png)
+![10](https://github.com//Alm798/Terraform2/blob/main/img/10.png)
 
 variables.tf
 
-![14](https://github.com/Alm798/Terraform2/blob/main/14.png)
+![14](https://github.com/Alm798/Terraform2/blob/main/img/14.png)
 
 main.tf
 
-![15](https://github.com/Alm798/Terraform2/blob/main/15.png)
+![15](https://github.com/Alm798/Terraform2/blob/main/img/15.png)
 
 
 ### Задание 3
@@ -96,7 +96,7 @@ main.tf
 
 vms_platform.tf
 
-![16](https://github.com//Alm798/Terraform2/blob/main/16.png)
+![16](https://github.com//Alm798/Terraform2/blob/main/img/16.png)
 
 
 
@@ -114,7 +114,7 @@ vms_platform.tf
 
 outputs.tf
 
-![17](https://github.com/Alm798/Terraform2/blob/main/17.png)
+![17](https://github.com/Alm798/Terraform2/blob/main/img/17.png)
 
 
 ### Задание 5
@@ -129,7 +129,7 @@ outputs.tf
 
 После новых изменений через локальные переменные terraform plan оставил текущую конфигурацию без изменений.
 
-![10](https://github.com/Alm798/Terraform2/blob/main/10.png)
+![10](https://github.com/Alm798/Terraform2/blob/main/img/10.png)
 
 
 ### Задание 6
@@ -177,7 +177,7 @@ metadata = {
 
 ### Решение:
 
-![12](https://github.com/Alm798/Terraform2/blob/main/12.png)
+![12](https://github.com/Alm798/Terraform2/blob/main/img/12.png)
 
-![13](https://github.com/Alm798/Terraform2/blob/main/13.png)
+![13](https://github.com/Alm798/Terraform2/blob/main/img/13.png)
 
